@@ -1,2 +1,2 @@
-# 89linux
+# paradoxOS
 A distro i made.
